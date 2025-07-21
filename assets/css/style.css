@@ -445,7 +445,9 @@ footer.border-top{
   z-index: 1;
 }
 
-
+.map-sec{
+  height: 450px;
+}
 
 
 @media(max-width:1750px){
@@ -494,6 +496,9 @@ h1, .h1 {
 }
 .abtinner-2 .inner-img-wrap {
     padding: 20px 0px 20px 20px;
+}
+.map-sec{
+  height: 400px;
 }
 }
 
@@ -568,7 +573,9 @@ h1, .h1 {
     height: 150px;
 }
 
-
+.map-sec{
+  height: 350px;
+}
 
 }
 
@@ -589,6 +596,9 @@ h1, .h1 {
 }
 .sub-banner-img {
     height: 250px;
+}
+.map-sec{
+  height: 300px;
 }
 }
 
@@ -612,5 +622,8 @@ h1, .h1 {
 }
 .inner-img-wrap {
     height: 250px !important;
+}
+.map-sec{
+  height: 250px;
 }
 }
